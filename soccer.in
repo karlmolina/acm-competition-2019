@@ -1,0 +1,12 @@
+2
+2 1
+kasnia latveria
+kasnia 0 latveria 1
+4 6
+england usa algeria slovenia
+england 1 usa 1
+algeria 0 slovenia 1
+slovenia 2 usa 2
+england 0 algeria 0
+slovenia 0 england 1
+usa 1 algeria 0
