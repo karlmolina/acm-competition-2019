@@ -1,4 +1,4 @@
-file = open('plate.in')
+file = open('test_data/plate.in')
 
 acts = int(file.readline())
 
@@ -32,7 +32,7 @@ for act in range(acts):
 
     if poles == 1:
         out.write("Chester can do it!\n")
-    elif -5(poles/2) + speed < 0:
+    elif -5*(poles/2) + speed < 0:
         out.write("Chester will fail!\n")
     else:
         out.write("Chester can do it!\n")
